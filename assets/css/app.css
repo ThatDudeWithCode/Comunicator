@@ -1,0 +1,92 @@
+body {
+  background: #e9ebee;
+  font-size: 14px;
+}
+
+.btn {
+  border-radius: 100px;
+}
+
+.bg-custom {
+  background-color: #3498db;
+}
+
+.btn-custom {
+  background-color: #3498db;
+  color: white;
+}
+
+.btn-custom:hover {
+  background-color: #2980b9;
+  color: white;
+}
+
+.comm-brand {
+  font-weight: 600;
+  color: #3498db;
+  padding: 5px;
+}
+
+.login-register-bg {
+  background-image: url("http://127.0.0.1/Communicator/assets/images/background.jpg");
+}
+
+.border-round {
+  border-radius: 100%;
+  padding-top: 5px;
+}
+
+.status {
+  font-size: 10px;
+  margin: 0;
+  padding: 0;
+}
+
+.view-profile {
+  font-size: 10px;
+  margin: 0;
+  padding: 0;
+}
+
+.list-group .list-group-item {
+  border-radius: 100px;
+  margin-top: 15px;
+  border-color: transparent;
+}
+
+.list-group .list-group-item:hover {
+  background-color: #e3e5e8;
+}
+
+.badge-default {
+  background-color: #3498db;
+  color: white;
+}
+
+.card {
+  border: none;
+}
+
+.bg-custom {
+  background-color: #3498db;
+}
+
+.btn-custom-2 {
+  box-shadow: 0 0 10px rgba(165, 165, 165, 0.15);
+  background-color: #ffffff;
+  color: #444444;
+}
+
+.btn-custom-2:hover {
+  background-color: #2980b9;
+  color: #444444;
+}
+
+.shadow-custom {
+  box-shadow: 0 0 8px 0px rgba(0, 0, 0, 0.15);
+}
+
+.text-sm2 {
+  font-size: 10px;
+}
+
